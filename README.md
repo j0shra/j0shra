@@ -1,5 +1,5 @@
 ### Hey, I'm Josh 👋
-I like the tinker with things
+I like to make things.
 
 <!--
 **j0shra/j0shra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
