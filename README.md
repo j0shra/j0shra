@@ -1,5 +1,6 @@
-### Hey, I'm Josh 👋
+### Hey, I'm Josh
 I like to make things.
+Never had the chance to go to Space Camp.
 
 <!--
 **j0shra/j0shra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
